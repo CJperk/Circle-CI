@@ -1,0 +1,10 @@
+CRI-POC
+
+Give permission to files to write
+
+
+chmod -R 777 cri_poc/
+
+chown -R www-data:www-data cri_poc/    (ROOT user do)
+
+ls -l

@@ -1,0 +1,7 @@
+send at
+
+
+sleep 50
+
+! killall minicom
+exit 0
